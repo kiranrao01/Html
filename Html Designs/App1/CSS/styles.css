@@ -1,0 +1,78 @@
+*{
+ margin-top: 0;
+}
+
+body {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  border-left: 2px solid black;
+}
+
+.brownBar {
+  height: 35px;
+  line-height: 35px;
+  background-color: BurlyWood;
+}
+#container{
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: skyblue;
+  min-height: 200px;
+}
+
+nav {
+
+}
+nav a{
+  margin: 10px;
+}
+nav span{
+  float: right;
+  margin-right: 10px;
+}
+
+header{
+
+}
+
+header img{
+  width: 100%;
+}
+
+#subHeader{
+  margin-top: -6px;
+}
+
+#subHeader span{
+  margin-left: 6px;
+}
+
+#content{
+ padding: 2px
+}
+#lcol{
+  width: 50%;
+  float: left;
+
+}
+
+#rcol{
+  float: right;
+  width:35%;
+}
+#rcol img{
+  width: 100%;
+
+}
+footer{
+  clear: both;
+}
+
+footer span{
+ margin-left: 6px;
+
+}

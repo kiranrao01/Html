@@ -1,0 +1,49 @@
+*{
+display:inline-block;
+background-color: #e2e2b3;
+/*border: 1px solid black;*/
+}
+.blue1 img{
+  background-color: skyblue;
+
+
+}
+
+.pink1 img{
+  background-color: pink;
+
+}
+
+.blue2 img{
+  background-color: skyblue;
+
+}
+
+.pink2 img{
+  background-color: pink;
+
+}
+
+.blue3 img{
+  background-color: skyblue;
+
+}
+.header1 img{
+  border:white;
+  display:inline-block;
+  margin-left: 50px;
+}
+.header2 img{
+  border:white;
+  display: block;
+
+}
+img {
+  margin-left: 10px;
+  display: block;
+  border: 3px solid black;
+    width: 100px;
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
